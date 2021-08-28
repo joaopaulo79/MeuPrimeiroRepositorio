@@ -1,4 +1,5 @@
 # meu-primeiro-repositorio
-Não sei
+✔Primeiro Repositório, seja bem vindo!
+✔Prpgrama de boas vindas.
 
-Criado por JP - Teste
+Criado por João Paulo.
